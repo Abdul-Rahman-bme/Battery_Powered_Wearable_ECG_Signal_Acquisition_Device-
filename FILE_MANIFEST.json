@@ -1,0 +1,117 @@
+[
+  {
+    "path": ".gitignore",
+    "bytes": 205,
+    "sha256": "e6afe09724c268004eae21c79338fef972c5a9f26b6dd608c1c3ed5eb222ff79"
+  },
+  {
+    "path": "README.md",
+    "bytes": 8525,
+    "sha256": "0a1441f41a46b83ecc59187e6770e0708e0b7133c8624174e62fc3895bf80a05"
+  },
+  {
+    "path": "RELEASE_CHECKLIST.md",
+    "bytes": 1108,
+    "sha256": "113967113ce136a278e09eca2e7fbadfe2faf04e3b002a29734bca52ef362ef4"
+  },
+  {
+    "path": "hardware/altium/06_System_Overview.SchDoc",
+    "bytes": 7168,
+    "sha256": "8dbf9c31e4882c9cb7d99807dcf2c1a08b25895d26bcdc6aabc518f97ce608e0"
+  },
+  {
+    "path": "hardware/altium/04_MCU_BLE.SchDoc",
+    "bytes": 119296,
+    "sha256": "f51471da9abd9be8d5ede5bb6d9cc4861b7dd0b4ce2d1da06ecced96787898df"
+  },
+  {
+    "path": "hardware/altium/03_ADC_Reference.SchDoc",
+    "bytes": 139776,
+    "sha256": "ef241648d2c01bced1b0ba27f20e52c658f5c7d4bb0f0185e66a0d481b3f7b63"
+  },
+  {
+    "path": "hardware/altium/Wearable_ECG_230108U_230507R.PcbDoc",
+    "bytes": 4609536,
+    "sha256": "32e76f132ecf5002e914d039dd818a254a1a9f53d1b4d1c3b89a24fbf19d98ce"
+  },
+  {
+    "path": "hardware/altium/02_DRL.SchDoc",
+    "bytes": 7168,
+    "sha256": "e106b0000e1213fac98f5b7f0501940295bc2fdb5a006d9e4bf66f0537adb98e"
+  },
+  {
+    "path": "hardware/altium/Wearable_ECG_OptionA.PrjPcb",
+    "bytes": 45049,
+    "sha256": "da81ce62a00004a47bf1ab5861a41b176f7db044d913c3fe4094dc7b24b5b746"
+  },
+  {
+    "path": "hardware/altium/01_ECG_Input_AFE.SchDoc",
+    "bytes": 271360,
+    "sha256": "aa607800890e6d26168e72e93c21a747e461e988628badb048cae4a20c5b7870"
+  },
+  {
+    "path": "hardware/altium/05_Power_Management.SchDoc",
+    "bytes": 153088,
+    "sha256": "114c8f99d6074a7f3f48b438dc60c4f7781b8a0a4d6a45aa9c2355f066d9dd2d"
+  },
+  {
+    "path": "hardware/altium/Wearable_ECG_OptionA.OutJob",
+    "bytes": 13574,
+    "sha256": "77a67114c4a82875d59ece3f8804a76efb530cf6dedba91ffd6c6e20a75aa880"
+  },
+  {
+    "path": "docs/reports/BOM_Wearable_ECG_230108U_230507R.xlsx",
+    "bytes": 14245,
+    "sha256": "f388f236646f785357b1e3ddfc8695f3a008a0ea4448b0d1647ebb606a87fbe9"
+  },
+  {
+    "path": "docs/reports/Design Rule Check - Wearable_ECG_230108U_230507R.drc",
+    "bytes": 4068,
+    "sha256": "8945301de5bd507b383128967266ff03523e86a01e2698acb29f265622b346a8"
+  },
+  {
+    "path": "docs/reports/Design Rule Check - Wearable_ECG_230108U_230507R.html",
+    "bytes": 14477,
+    "sha256": "b7abff7e9c46e02c4c4aba279d278702271676ec589ecf27e42d21756069c547"
+  },
+  {
+    "path": "docs/images/ecg_wearable_logo.png",
+    "bytes": 1148916,
+    "sha256": "d21951afa7241ffd76ea55f238059a48ded37190df705f77ac4de609280cd214"
+  },
+  {
+    "path": "docs/images/architecture.svg",
+    "bytes": 1811,
+    "sha256": "02862783ac1f614f92dc083c90e11aa5a39901b7ffc1573bd793275843016bed"
+  },
+  {
+    "path": "docs/images/schematics/03_ADC_Reference.png",
+    "bytes": 60172,
+    "sha256": "71e32ea38d1d30a070ae1ba3530a0526e2eb9573226cd667858b6d58e7515b40"
+  },
+  {
+    "path": "docs/images/schematics/01_ECG_Input_AFE.png",
+    "bytes": 41406,
+    "sha256": "97a195c293468304b1459eb5a592fb3286b95638019a73ef0f79acfe829aa54c"
+  },
+  {
+    "path": "docs/images/schematics/04_MCU_BLE.png",
+    "bytes": 44130,
+    "sha256": "102a40fa330f889c118826bfc7d3e3894de5dca7f6bcc22a78f3db65c0ecb58b"
+  },
+  {
+    "path": "docs/images/schematics/02_DRL.png",
+    "bytes": 10467,
+    "sha256": "bc08ba12ef41f14385e68ba9bfc486710b72cf981eb877d6a87afbc3751f5e4c"
+  },
+  {
+    "path": "docs/images/schematics/05_Power_Management.png",
+    "bytes": 46041,
+    "sha256": "9933ad99d3309aaa36a61688afb2c6b4084e5a959cc0ca1f76b1f59ed4acaa12"
+  },
+  {
+    "path": "docs/images/pcb/pcb_editor_top_crop.png",
+    "bytes": 73336,
+    "sha256": "40793192aa06a24770cbf20a2d51fe515b49ef1661df42798907f0a47225aebf"
+  }
+]

@@ -1,6 +1,5 @@
 # Battery-Powered Wearable ECG Signal Acquisition Device
 
-![Project logo](docs/images/ecg_wearable_logo.png)
 
 **University of Moratuwa · BM3110 / EN3533 Electronic Instrumentation (2026)**  
 **Designed by:** Mokshan (230108U) and Abdul (230507R)  
@@ -25,7 +24,6 @@ This educational project designs a battery-powered, single-lead wearable ECG acq
 | Sheet | Preview |
 |---|---|
 | ECG input and AFE | ![ECG AFE schematic](docs/images/schematics/01_ECG_Input_AFE.png) |
-| Driven-right-leg | ![DRL schematic](docs/images/schematics/02_DRL.png) |
 | ADC and reference | ![ADC schematic](docs/images/schematics/03_ADC_Reference.png) |
 | BLE microcontroller | ![MCU schematic](docs/images/schematics/04_MCU_BLE.png) |
 | Power management | ![Power schematic](docs/images/schematics/05_Power_Management.png) |
